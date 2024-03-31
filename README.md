@@ -1,1 +1,3 @@
 ![thumbnail_Screenshot 2024-03-31 at 15 05 10](https://github.com/Felix465/OpenWorldGameGMS/assets/75161032/9f69ddca-06c2-40dd-8164-35f3e55bed62)
+![thumbnail_Screenshot 2024-03-31 at 15 04 01](https://github.com/Felix465/OpenWorldGameGMS/assets/75161032/5299ec02-a0fe-41f5-b102-868a75c205c1)
+I created this game using Game Maker Studio 2 and the GML language. Each time the game runs the user will be spawned into a randomly generated map and they will try to find the exit collectiong coins on the way which are able to be used in various shops found at later stages to the game. They will also be chased by a ghost which will restart the game if it collides with the user. 
